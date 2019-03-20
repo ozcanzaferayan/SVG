@@ -6,6 +6,7 @@ You can use [svgexport](https://github.com/shakiba/svgexport) project to convert
 
 ## İstanbul Belediye Logoları
 Contains logos for İstanbul municipalities.
+![Alt text](./belediyeler/istanbul/png/map.png)
 
 ## İstanbul İlçeleri SVG
 Contains boundaries for İstanbul districts.
