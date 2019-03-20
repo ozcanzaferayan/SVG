@@ -11,3 +11,10 @@ Contains logos for İstanbul municipalities.
 ## İstanbul İlçeleri SVG
 Contains boundaries for İstanbul districts.
 ![Alt text](./ilceler/istanbul/istanbul.svg)
+
+## Special Thanks
+[SpriteSheetPacker](https://github.com/nickgravelyn/SpriteSheetPacker) for creating image map.
+
+
+## License
+This project is available under the MIT license. See the LICENSE file for more info.
